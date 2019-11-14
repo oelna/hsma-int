@@ -40,7 +40,7 @@ Die **Diskografieseite** soll für jedes Album beinhalten:
 
 ### Hinweise zu Bildern:
 
-Lade dir für dieses Projekt einige Bilder aus dem Web herunter. Gute Anlaufpunkte zB. für Albencover sind [Wikipedia]() und [Amazon](), sowie [Google Image Search]().
+Lade dir für dieses Projekt einige Bilder aus dem Web herunter. Gute Anlaufpunkte zB. für Albencover sind Wikipedia und Amazon, sowie die Google-Bildersuche (siehe Referenzen).
 
 Speichere deine Bilder in einen Unterordner `images` und denke daran, keine Großschreibung, Umlaute oder Sonderzeichen bei der Benennung der Dateien zu verwenden; sie sollten so aussehen: `album_name.jpg`
 
