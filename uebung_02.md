@@ -1,6 +1,6 @@
-# Übung 2
+# Übung 2
 
-Strukturierungsarbeit. Nutze den [unformatierten Text](uebung_02_vorlage.txt) für eine simple Seite
+Strukturierungsarbeit. Nutze den [unformatierten Text](uebung_02_vorlage.txt) für eine simple Seite
 
 
 ## Anweisung
@@ -15,7 +15,7 @@ Lege die DTD (Document Type Definition, Doctype) und HTML-Struktur im Dokument a
 <html>
     <head>
         <meta charset="utf-8" />
-        <title>Übung 2: Markup</title>
+        <title>Übung 2: Markup</title>
     </head>
     <body>
 
@@ -23,12 +23,12 @@ Lege die DTD (Document Type Definition, Doctype) und HTML-Struktur im Dokument a
 </html>
 ```
 
-- Öffne die [Textvorlage](uebung_02_vorlage.txt) in deinem Editor ([Sublime Text](https://www.sublimetext.com/)?) und übernimm den Inhalt ins `<body>` Element deines eigenen HTML-Dokuments.
+- Öffne die [Textvorlage](uebung_02_vorlage.txt) in deinem Editor ([Sublime Text](https://www.sublimetext.com/)?) und übernimm den Inhalt ins `<body>` Element deines eigenen HTML-Dokuments.
 
 - Entscheide, welche Information im Text welchem Tag entspricht und füge die Tags enstprechend ein. Denke jeweils auch an die *Closing Tags*!
 
-    - [`<h1>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/h1-h6) (Überschrift erster Ordnung)
-    - [`<h2>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/h1-h6) (Überschrift zweiter Ordnung)
+    - [`<h1>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/h1-h6) (Überschrift erster Ordnung)
+    - [`<h2>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/h1-h6) (Überschrift zweiter Ordnung)
     - [`<div>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/div) (Element zur Gruppierung anderer Elemente)
     - [`<ol>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/ol) (geordnete Liste)
     - [`<ul>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/ul) (ungeordnete Liste)
@@ -38,7 +38,7 @@ Lege die DTD (Document Type Definition, Doctype) und HTML-Struktur im Dokument a
     - [`<span>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/span) (Inline-Element zur Gruppierung)
     - [`<time>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/time) (Zeitangaben)
 
-- Verlinke die Überschrift deiner Seite mit der URL  
+- Verlinke die Überschrift deiner Seite mit der URL  
 [http://www.zeit.de/2016/35/e-mails-professoren-studenten-formalitaeten-stil-hoeflichkeit/](http://www.zeit.de/2016/35/e-mails-professoren-studenten-formalitaeten-stil-hoeflichkeit/)
 - Verlinke das Wort „Emojis“ mit der Seite  
 [https://de.wikipedia.org/wiki/Emoji](https://de.wikipedia.org/wiki/Emoji)
@@ -49,7 +49,7 @@ Lege die DTD (Document Type Definition, Doctype) und HTML-Struktur im Dokument a
 
 ## Dauer und Abgabe
 
-Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt 7 Tage, bis zur nächsten Kursstunde.  
+Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt 7 Tage, bis zur nächsten Kursstunde.  
 Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigenen Übung.
 
 ## Referenzen und weiterführende Links

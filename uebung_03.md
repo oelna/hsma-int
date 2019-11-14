@@ -1,13 +1,13 @@
-# Übung 3
+# Übung 3
 
 Setze deinen Stundenplan als Website um
 
 
 ## Anweisung
 
-- Daten und Zeiträume lassen sich als Kalender auf viele Weisen visualisieren. In einem Stundenplan werden üblicherweise Wochentage in Verhältnis zu Uhrzeiten gesetzt und mit den jeweiligen Terminen beschriftet. Dafür kann man in `HTML` zB. auf Tabellen- und Listendarstellungen zurückgreifen.
+- Daten und Zeiträume lassen sich als Kalender auf viele Weisen visualisieren. In einem Stundenplan werden üblicherweise Wochentage in Verhältnis zu Uhrzeiten gesetzt und mit den jeweiligen Terminen beschriftet. Dafür kann man in `HTML` zB. auf Tabellen- und Listendarstellungen zurückgreifen.
 
-- Setze für deinen Stundenplan an der Hochschule einen individuellen Kalender mit `HTML` um. Verwende dafür als Anregung die abgebildete Tabelle. Die Zeilen sind für Uhrzeiten vorgesehen, die Spalten entsprechen den Wochentagen Montag bis Sonntag. Fasse die Zellen am Samstag und am Sonntag zu einer großen Spalte zusammen.
+- Setze für deinen Stundenplan an der Hochschule einen individuellen Kalender mit `HTML` um. Verwende dafür als Anregung die abgebildete Tabelle. Die Zeilen sind für Uhrzeiten vorgesehen, die Spalten entsprechen den Wochentagen Montag bis Sonntag. Fasse die Zellen am Samstag und am Sonntag zu einer großen Spalte zusammen.
 
 **Beispiel:**
 
@@ -20,9 +20,9 @@ Setze deinen Stundenplan als Website um
 |…||||||||
 |…||||||||
 
-- Für den Kalender eignet sich das `<table>` Element gut.
+- Für den Kalender eignet sich das `<table>` Element gut.
 - `<tr>` markiert eine Zeile, <td> eine einzelne Zelle des Kalenders.
-- Für die Beschriftung einzelner Zeilen oder Spalten verwendet man gerne `<th>`.
+- Für die Beschriftung einzelner Zeilen oder Spalten verwendet man gerne `<th>`.
 
  - Achte darauf, die Struktur richtig umzusetzen. Den genauen Umgang mit den Tags kannst du jederzeit bei [SelfHTML](https://wiki.selfhtml.org/wiki/HTML/Tabellen/Aufbau_einer_Tabelle) oder [MDN](https://developer.mozilla.org/de/docs/Web/HTML/Element/table) nachlesen.
 
@@ -32,7 +32,7 @@ Setze deinen Stundenplan als Website um
 
 ## Dauer und Abgabe
 
-Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt 7 Tage, bis zur nächsten Kursstunde.  
+Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt 7 Tage, bis zur nächsten Kursstunde.  
 Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigenen Übung.
 
 ## Referenzen und weiterführende Links
