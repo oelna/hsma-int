@@ -50,6 +50,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [Flexbox Playground](https://demos.scotch.io/visual-guide-to-css3-flexbox-flexbox-playground/demos/) (englisch)  
 - [Flexbox Visual Guide](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) (englisch)  
 - [Flexbox in five steps](https://webdesignerwall.com/tutorials/master-css-flexbox-5-simple-steps) (englisch)  
+- [Flexbox Froggy](https://flexboxfroggy.com/#de)  
 - [The new CSS layout](https://abookapart.com/products/the-new-css-layout) ($14 Ebook, $24 Paperback)  
 
 ### Elemente
