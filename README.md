@@ -7,3 +7,4 @@ Kursaufgaben für meinen Kurs INT an der Hochschule Mannheim
 - Stunde 5: CSS
 - [Stunde 6: Band-Website](uebung_06.md)
 - [Stunde 7: Flexbox-Galerie](uebung_07.md)
+- [Stunde 8: Website-Hosting](uebung_08.md)
