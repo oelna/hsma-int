@@ -47,7 +47,7 @@ Prüfe deine Seite im Browser deiner Wahl. Denke auch daran, das Browserfenster 
 
 Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt 7 Tage, bis zur nächsten Kursstunde. Als Länge für die Präsentation sind 3 bis 5 Minuten vorgesehen, zuzüglich Fragen aus dem Publikum.
 
-Das Ergebnis dieser Aufgabe wird zu Beginn der nächsten Stunde am Beamer im Browser (Chrome) vor dem Kurs präsentiert.
+Das Ergebnis dieser Aufgabe wird zu Beginn der nächsten Stunde am Beamer im Browser (Chrome) vor dem Kurs präsentiert. Idealerweise lädst du dein Projekt auf einen Webspace (zB. [Github Pages](https://pages.github.com/), siehe [Übung 8](uebung_08.md)!), so dass man nur die `URL` (Adresse) für die Präsentation benötigt.
 
 Der Dozent behält sich vor, die Ergebnisse der Übung als Bewertung in die Note für das Semester mit einfließen zu lassen.
 
