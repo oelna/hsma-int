@@ -28,13 +28,13 @@ Oft sieht ein Rahmen um die Bilder gut aus, zB. ein Polaroid-Effekt. Experimenti
 
 Gestalte die Seite in einem modernen Look, zum Beispiel mit `CSS`-Transformationen, Farbverläufen, Transparenzen, etc.
 
-- **[Transformationen](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/%C3%A4u%C3%9Fere_Gestaltung/Transformationen)**
+- **[Transformationen](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/%C3%A4u%C3%9Fere_Gestaltung/Transformationen)**  
 ![INT_stunde10_image_04](https://user-images.githubusercontent.com/1279725/70738336-c206d300-1d14-11ea-9fe8-05e150b1a492.jpg)
-- **Farbverläufe** ([Gradients](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Hintergrundfarben_und_-bilder/linear-gradient()))
+- **Farbverläufe** ([Gradients](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Hintergrundfarben_und_-bilder/linear-gradient()))  
 ![INT_stunde10_image_03](https://user-images.githubusercontent.com/1279725/70738338-c29f6980-1d14-11ea-9e32-31051506ee19.jpg)
 - **Schlagschatten** ([text-shadow](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Textformatierung/text-shadow), [box-shadow](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/%C3%A4u%C3%9Fere_Gestaltung/box-shadow))  
 ![INT_stunde10_image_02](https://user-images.githubusercontent.com/1279725/70738337-c29f6980-1d14-11ea-9791-43ff309631b6.jpg)
-- **Transparenzen** ([RGBA / HSLA](http://trentwalton.com/2010/12/21/rgba-hsla-css-color/) / [opacity](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Anzeige/opacity))
+- **Transparenzen** ([RGBA / HSLA](http://trentwalton.com/2010/12/21/rgba-hsla-css-color/) / [opacity](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Anzeige/opacity))  
 ![INT_stunde10_image_01](https://user-images.githubusercontent.com/1279725/70738339-c29f6980-1d14-11ea-926d-1ce8fa6ded04.jpg)
 
 
