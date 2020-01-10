@@ -1,5 +1,10 @@
 # HTML
 
+- Denke daran, auch immer die `.pdf`-Präsentationen der jeweiligen Stunde zu wiederholen!  
+- Die Benutzung von Sublime Text für die Prüfung ist erlaubt
+- Die Verwendung eigener, vorhandener HTML-Dateien ist verboten
+- Die Online-Recherche, zB. über Google, etc. ist verboten
+
 ## Grundgerüst
 
 ```html
@@ -24,6 +29,8 @@
 
 <a href="http://www.google.com/">Andere Website</a>
 ```
+
+Referenz: [MDN: a](https://developer.mozilla.org/de/docs/Web/HTML/Element/a)
 
 ## Stunde 2: Elemente
 
@@ -189,17 +196,31 @@ p {
 
 ### Klassen
 
-Der Klassenname wird mit einem Punkt `.` markiert.
+Das `class`-Attribut wird in HTML verwendet, um ein oder mehrere Elemente als einer benannten Gruppe zugehörig zu markieren.
+
+```html
+<p>Etwas <span class="markiert">wichtiger</span> Text.</p>
+```
+
+Das Element kann dann in CSS anhand seiner Klasse angesprochen werden. Der Klassenname wird dabei mit einem Punkt `.` markiert.
 
 ```css
-.aktiv {
+.markiert {
 	background-color: yellow;
 }
 ```
 
+Referenz: [MDN: class-Attribut](https://developer.mozilla.org/de/docs/Web/HTML/Globale_Attribute/class)
+
 ### ID
 
-Die ID wird mit einem Hash `#` markiert.
+Das `id`-Attribut wird in HTML verwendet, um Elemente eindeutig zu benennen.
+
+```html
+<div id="navigation">…</div>
+```
+
+Das Element kann dann in CSS anhand seiner ID angesprochen werden. Die ID wird dabei mit einem Hash `#` markiert.
 
 ```css
 #navigation {
@@ -207,7 +228,17 @@ Die ID wird mit einem Hash `#` markiert.
 }
 ```
 
+Referenz: [MDN: id-Attribut](https://developer.mozilla.org/de/docs/Web/HTML/Globale_Attribute/id)
+
 ### Elemente IN anderen Elementen
+
+Werden zwei Selektoren durch ein Leerzeichen verbunden, so wird das Element nur dann angesprochen, wenn es ein Nachfahrenelement eines anderen Elements ist. Dabei muss es kein direktes Kindelement sein, sondern kann auch weiter unten im Elementbaum notiert sein.
+
+**Beispiel 1**
+
+```html
+<p>Wir waren <time>gestern</time> schwimmen.</p>
+```
 
 Alle `<time>`-Elemente in `<p>`-Elementen werden mit Schriftfarbe Rot formatiert.
 
@@ -217,6 +248,8 @@ p time {
 }
 ```
 
+**Beispiel 2**
+
 Alle `<img>`-Elemente in `<a>`-Elementen in Elementen mit der Klasse `.navigation` werden als Breite `200px` formatiert.
 
 ```css
@@ -224,6 +257,8 @@ Alle `<img>`-Elemente in `<a>`-Elementen in Elementen mit der Klasse `.navigatio
 	width: 200px;
 }
 ```
+
+Referenz: [MDN: Nachfahrenselektoren](https://developer.mozilla.org/en-US/docs/Web/CSS/Descendant_combinator), [Selfhtml: Nachfahrenkombinator](https://wiki.selfhtml.org/wiki/CSS/Selektoren/Kombinator/Nachfahrenkombinator)
 
 ## Im Test vorkommend:
 
@@ -244,15 +279,31 @@ Alle `<img>`-Elemente in `<a>`-Elementen in Elementen mit der Klasse `.navigatio
 | border | Rahmenlinie für Elemente |
 | margin | Aussenabstand |
 | padding | Innenabstand |
-| list-style | Art, wie listenaufzählungspunkte angezeigt werden |
+| width | Breite des Elements |
+| height | Höhe des Elements |
+| list-style | Art, wie Listenaufzählungspunkte angezeigt werden |
 
 ### Einheiten
 
-`CSS` einheiten: `px`, `em`, `%`
+- `px`: Repräsentieren (unter Vorbehalt) einen Bildpunkt am Bildschirm in der jeweiligen Auflösung
+- `em`: Ein `em` repräsentiert die vom Browser berechnete Schriftgröße des Elements
+- `%`: Prozentangaben in einer Eigenschaft beziehen sich auf einen Bruchteil des verfügbaren Platzes
+
+Nicht im Test aber interessant:
+
+- `rem`
+- `ex`
+- `ch`
+- `vw`
+- `vh`
+- `calc()`
+
+Referenz: [SelfHTML: Maßeinheiten](https://wiki.selfhtml.org/wiki/CSS/Wertetypen/Zahlen,_Ma%C3%9Fe_und_Ma%C3%9Feinheiten)
 
 ## Flexbox
 
-Elemente nebeneinander oder untereinander anordnen
+Elemente nebeneinander oder untereinander anordnen  
+Im Test gefragt sind nur `display: flex` und die Eigenschaft `flex-direction`.
 
 ```html
 <div class="test">
@@ -275,6 +326,8 @@ Elemente nebeneinander oder untereinander anordnen
 	flex-direction: column;
 }
 ```
+
+Referenz: [SelfHTML: Flexbox](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Flexbox)
 
 ## Dieses Semester nicht:
 
