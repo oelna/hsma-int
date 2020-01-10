@@ -27,6 +27,20 @@
 
 ## Stunde 2: Elemente
 
+### Überschriften `<h1>`, `<h2>`,`<h3>` …
+
+Beachte: Die Zahlen sind keine aufsteigende Nummerierung, sondern eine Gewichtung!
+Meist braucht man nicht mehr als `<h1>`-`<h3>`, um seinen Inhalt sinnvoll zu gliedern.
+
+```html
+<h1>Süddeutsche Zeitung</h1>
+<h2>Westen fordert von Iran Transparenz</h2>
+<h2>240 000 Menschen sollen ihr Zuhause verlassen</h2>
+<h2>Ein Chalet, ein Porsche, ein Streit</h2>
+```
+
+Referenz: [MDN: h1-h6](https://developer.mozilla.org/de/docs/Web/HTML/Element/h1-h6)
+
 ### Textabschnitte `<p>`, Betonung mit `<em>` und `<strong>`
 ```html
 <p>fhsdj fhdjs hfdsjfh<br />dsjkf hsdjf hdjks fhdsjkf hdsjkf hdskjf</p>
@@ -34,7 +48,12 @@
 <p>fhsdj fhdjs <strong>hfdsjfh</strong> fdj fdsjkf hsdjf hdjks fhdsjkf hdsjkf hdskjf</p>
 ```
 
+Referenz: [MDN: p](https://developer.mozilla.org/de/docs/Web/HTML/Element/p), [em](https://developer.mozilla.org/de/docs/Web/HTML/Element/em), [strong](https://developer.mozilla.org/de/docs/Web/HTML/Element/strong)
+
 ### Listen `<ul>`, `<ol>`, `<li>`
+
+Listen verwenden zwei verschiedene Tags, um die Struktur anzulegen; den Listencontainer und die Listeneinträge.
+
 ```html
 <ul>
 	<li>Punkt A</li>
@@ -61,7 +80,29 @@
 </ol>
 ```
 
+**Vorschau** `<ul>`:
+
+- Punkt A
+- Punkt B
+- Punkt C
+
+**Vorschau** `<ul>` mit Links:
+
+- [Punkt A](https://developer.mozilla.org/de/docs/Web/HTML/Element/li)
+- [Punkt B](https://developer.mozilla.org/de/docs/Web/HTML/Element/li)
+- [Punkt C](https://developer.mozilla.org/de/docs/Web/HTML/Element/li)
+
+**Vorschau** `<ol>`:
+
+1. Punkt A
+1. Punkt B
+1. Punkt C
+
+Referenz: [MDN: ul](https://developer.mozilla.org/de/docs/Web/HTML/Element/ul), [ol](https://developer.mozilla.org/de/docs/Web/HTML/Element/ol), [li](https://developer.mozilla.org/de/docs/Web/HTML/Element/li)
+
 ### Zeitangaben mit `<time>`
+
+Maschinenlesbare Zeitangaben. Das `datetime`-Attribut akzeptiert u.a. ein Datum in der Form Jahr-Monat-Tag (`YYYY-MM-DD`) und/oder eine Zeitangabe in der Form Stunden:Minuten:Sekunden (`HH:MM:SS`).
 
 ```html
 <p>
@@ -71,19 +112,37 @@
 </p>
 ```
 
+Referenz: [MDN: time](https://developer.mozilla.org/de/docs/Web/HTML/Element/time)
+
 ## Stunde 3: Tabellen und Bilder
 
 ### Bilder `<img>`
 
+Bilder haben immer ein "source"-Attribut `src`, um die zu ladende Bilddatei anzugeben (relative oder absolute URL). Die Datei kann in den Formaten `.jpg`, `.png`, `.gif` und `.svg` vorliegen und sollte im besten Fall eine Größe von ca. `50-150 kb` nicht überschreiten.  
+Die Dimensionen des Bildes sollten im `<img>`-Element in den Attributen `width` (Breite) und `height` (Höhe) angegeben werden (Ohne Einheit, gemeint sind immer Pixel).  
+Das `<img>`-Element sollte immer ein `alt`-Attribut haben, das in 1-2 kurzen Sätzen den Bildinhalt widergibt. Bei rein dekorativ verwendeten Bildern kann das Attribut einen leeren Wert haben ("").  
+
 ```html
 <img src="mein-bild.jpg" alt="Ein tolles Foto von mir" width="300" height="480" />
 
-<img src="unterordner/mein-bild.jpg" alt="Ein tolles Foto von mir" />
+<img src="unterordner/dateiname.jpg" alt="" />
 
 <img src="bilder/lowres/mein-bild.jpg" alt="Ein tolles Foto von mir" />
+
+<img src="http://www.tagesschau.de/multimedia/bilder/gruene282~_v-videowebl.jpg" alt="Die Geschichte der Grünen Partei" />
 ```
 
+Referenz: [MDN: img](https://developer.mozilla.org/de/docs/Web/HTML/Element/img)
+
 ### Tabellen `<table>`, `<tr>`, `<td>`, `<th>`
+
+Tabellen werden aus mindestens 3-4 verschiedenen Elementen zusammengesetzt, in der Reihenfolge 
+
+1. Tabellencontainer [`<table>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/table)
+1. Zeilen [`<tr>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/tr)
+1. Inhaltszellen [`<td>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/td) oder Überschriftenzellen [`<th>`](https://developer.mozilla.org/de/docs/Web/HTML/Element/th)
+
+Für die Konstruktion ist es manchmal einfacher, das veraltete Attribut `border` einzusetzen, um Gitternetzlinien angezeigt zu bekommen, da ansonsten die Rahmen der Tabelle unsichtbar sind (ausser man verwendet CSS, um sie einzublenden).
 
 ```html
 <table border="1">
@@ -101,6 +160,12 @@
 	</tr>
 </table>
 ```
+
+**Vorschau**
+
+| überschrift 1 | überschrift 2 | überschrift 3 | überschrift 4 |
+| --- | --- | --- | --- |
+| zelle 1 | zelle 2 | zelle 3 | zelle 4 |
 
 # CSS
 
