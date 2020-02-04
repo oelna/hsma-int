@@ -54,6 +54,8 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 ## Referenzen und weiterführende Links
 
+- [Meta- und Link-Tags im `<head>`](https://gist.github.com/oelna/192663f21e81e5467658332259b90a09) (fortgeschritten!)
+
 ### Elemente
 
 #### MDN
