@@ -20,11 +20,12 @@ Setze deinen Stundenplan als Website um
 |…||||||||
 |…||||||||
 
-- Für den Kalender eignet sich das `<table>` Element gut.
+- Für den Kalender eignet sich das `<table>` Element gut. (Man kann temporär das veraltete Attribut `border="1"` einfügen, um die Gitternetzlinien der Tabelle sehen zu können)
 - `<tr>` markiert eine Zeile, <td> eine einzelne Zelle des Kalenders.
 - Für die Beschriftung einzelner Zeilen oder Spalten verwendet man gerne `<th>`.
+- Die eigentlichen Inhaltszellen heissen `<td>`.
 
- - Achte darauf, die Struktur richtig umzusetzen. Den genauen Umgang mit den Tags kannst du jederzeit bei [SelfHTML](https://wiki.selfhtml.org/wiki/HTML/Tabellen/Aufbau_einer_Tabelle) oder [MDN](https://developer.mozilla.org/de/docs/Web/HTML/Element/table) nachlesen.
+- Achte darauf, die Struktur richtig umzusetzen. Den genauen Umgang mit den Tags kannst du jederzeit bei [SelfHTML](https://wiki.selfhtml.org/wiki/HTML/Tabellen/Aufbau_einer_Tabelle) oder [MDN](https://developer.mozilla.org/de/docs/Web/HTML/Element/table) nachlesen.
 
 - Validiere dein Dokument und korrigiere Fehler unter [validator.w3.org](http://validator.w3.org/). Verwende am besten "Direct Input" als Eingabemethode und füge deinen Code per *Copy & Paste* ein.
 
