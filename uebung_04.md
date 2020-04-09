@@ -11,6 +11,8 @@ Gestalte den Inhalt deiner in Stunde 2 erstellten Seite, um ihn leichter erfassb
 
 Prüfe anschliessend deine Seite im Browser deiner Wahl.
 
+![Beispiel einer mit CSS gestalteten Website](https://user-images.githubusercontent.com/1279725/78912944-8b558500-7a88-11ea-881c-de4c6cf29f92.png)
+
 ## Dauer und Abgabe
 
 Die veranschlagte Bearbeitungszeit für diese Aufgabe beträgt 7 Tage, bis zur nächsten Kursstunde.  
