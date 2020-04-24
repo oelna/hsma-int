@@ -23,6 +23,11 @@ Anregungen für Verbesserungen, Tips und Themenideen nehme ich gerne als [Issues
 
 Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](https://github.com/oelna/hsma-html), das im Hauptstudium ab dem 3. Semester jederzeit (auch mehrfach) belegt werden kann.
 
+### Eigene Domains registrieren
+
+- [porkbun.com](https://porkbun.com)
+- [inwx.de](https://www.inwx.com/de/)
+
 ### Angebot: GitHub Student Developer Pack
 
 Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine Sammlung **kostenloser** Software- und Onlinedienst-Angebote, die Studierenden, die einen Github-Account [besitzen](https://education.github.com/benefits) ([oder erstellen!](https://github.com/join)) kostenlos zur Verfügung gestellt wird.
