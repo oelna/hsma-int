@@ -28,6 +28,11 @@ Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](h
 - [porkbun.com](https://porkbun.com)
 - [inwx.de](https://www.inwx.com/de/)
 
+## Eigenen Webspace mieten
+
+- [serverprofis.de](https://www.serverprofis.de/)
+- [uberspace.de](https://uberspace.de/de/) (30 Tage kostenlos testen, ohne Zahlmittel)
+
 ### Angebot: GitHub Student Developer Pack
 
 Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine Sammlung **kostenloser** Software- und Onlinedienst-Angebote, die Studierenden, die einen Github-Account [besitzen](https://education.github.com/benefits) ([oder erstellen!](https://github.com/join)) kostenlos zur Verfügung gestellt wird.
