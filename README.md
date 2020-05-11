@@ -28,7 +28,7 @@ Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](h
 - [porkbun.com](https://porkbun.com)
 - [inwx.de](https://www.inwx.com/de/)
 
-## Eigenen Webspace mieten
+### Eigenen Webspace mieten
 
 - [serverprofis.de](https://www.serverprofis.de/)
 - [uberspace.de](https://uberspace.de/de/) (30 Tage kostenlos testen, ohne Zahlmittel)
