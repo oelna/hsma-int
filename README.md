@@ -23,6 +23,13 @@ Anregungen für Verbesserungen, Tips und Themenideen nehme ich gerne als [Issues
 
 Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](https://github.com/oelna/hsma-html), das im Hauptstudium ab dem 3. Semester jederzeit (auch mehrfach) belegt werden kann.
 
+### Praktisches Wissen in kompakter Form
+
+- [Zusammenfassung der Inhalte aus INT](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md)
+- [Merkblatt zu Dateikompression](https://gist.github.com/oelna/828e5b9c5702b635b56fd1a1d463943c)
+- [Liste aller wichtigen Metadaten im `<head>`](https://gist.github.com/oelna/192663f21e81e5467658332259b90a09)
+- [Javascript Crash-Course](https://gist.github.com/oelna/5b7fa9f53331130ba4281d23532f3dff) (nur freiwillig!)
+
 ### Eigene Domains registrieren
 
 - [porkbun.com](https://porkbun.com)
