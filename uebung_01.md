@@ -7,14 +7,14 @@ Eine einfaches Projekt, das 2 HTML-Dateien mit einander verlinkt
 
 - Erstelle einen neuen Ordner: `uebung_1`
 - Öffne deinen HTML-Editor, zB. [Sublime Text](https://www.sublimetext.com/).
-- Erstelle 2 neue Dokumente („File – New File“).
+- Erstelle 2 neue Dokumente („File – New File“ oder "Datei - Neue Datei").
 - Speichere das erste unter dem Namen `index.html` im Ordner `uebung_1` ab.
 - Speichere deinen Fortschritt auch während der Arbeit regelmässig, besonders vor dem Testen.
-- Speichere das zweite unter dem Namen „unterseite.html“ im Ordner `uebung_1`.
+- Speichere das zweite unter dem Namen `unterseite.html` im Ordner `uebung_1`.
 - In Datei `index.html`, schreibe den Text „Gehe zur Unterseite“
 - In Datei `unterseite.html`, schreibe den Text „Wieder zur Startseite“
 
-- Jetzt wollen wir den Text „Unterseite“ mit der angelegten unterseite.html und den Text „Startseite“ mit der angelegten `index.html` verlinken. Die Verlinkung (=Verknüpfung) wird mit einem der wichtigsten HTML-Tags gemacht, dem Anchor-Element [`<a>`](/)
+- Jetzt wollen wir den Text „Unterseite“ mit der angelegten `unterseite.html` und den Text „Startseite“ mit der angelegten `index.html` verlinken. Die Verlinkung (=Verknüpfung) wird mit einem der wichtigsten HTML-Tags gemacht, dem Anchor-Element [`<a>`](/)
 
 - Während du dich in `index.html` befindest, schreibe vor den Text „Unterseite“ `<a href="unterseite.html">`
 - Schreibe den Schlusstag `</a>` direkt hinter den Text „Unterseite“.
