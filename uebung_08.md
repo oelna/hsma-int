@@ -62,6 +62,11 @@ Bringe die URL (Adresse), unter der deine Seite zu erreichen ist, zum nächsten 
 - [Domainfactory](https://www.df.eu/)
 - [Alfahosting](https://alfahosting.de/)
 
+### Separates Domainhosting
+
+- [inwx.de](https://inwx.de/)
+- [porkbun.com](https://porkbun.com/)
+
 ### Langweilige, riesige Provider
 
 - [1und1 Ionos](https://www.ionos.de/)
