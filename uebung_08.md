@@ -49,10 +49,11 @@ Bringe die URL (Adresse), unter der deine Seite zu erreichen ist, zum nächsten 
 
 ### Programme (FTP-Clients)
 
-- [Transmit](https://panic.com/transmit/) ($45)
-- [Forklift](https://binarynights.com/) ($30)
-- [Cyberduck](https://cyberduck.io/) (kostenlos)
-- [Filezilla](https://filezilla-project.org/) (kostenlos)
+- [Transmit](https://panic.com/transmit/) ($45, Mac)
+- [Forklift](https://binarynights.com/) ($30, Mac)
+- [WinSCP](https://winscp.net/) (kostenlos, Windows)
+- [Cyberduck](https://cyberduck.io/) (kostenlos, Win/Mac)
+- [Filezilla](https://filezilla-project.org/) (kostenlos, Windows)
 
 ### Provider
 
