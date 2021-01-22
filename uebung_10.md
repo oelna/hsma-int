@@ -28,7 +28,7 @@ Oft sieht ein Rahmen um die Bilder gut aus, zB. ein Polaroid-Effekt. Experimenti
 
 Gestalte die Seite in einem modernen Look, zum Beispiel mit `CSS`-Transformationen, Farbverläufen, Transparenzen, etc.
 
-- **[Transformationen](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/%C3%A4u%C3%9Fere_Gestaltung/Transformationen)**  
+- **[Transformationen](https://developer.mozilla.org/de/docs/Web/CSS/transform)**  
 ![INT_stunde10_image_04](https://user-images.githubusercontent.com/1279725/70738336-c206d300-1d14-11ea-9fe8-05e150b1a492.jpg)
 - **Farbverläufe** ([Gradients](http://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Hintergrundfarben_und_-bilder/linear-gradient()))  
 ![INT_stunde10_image_03](https://user-images.githubusercontent.com/1279725/70738338-c29f6980-1d14-11ea-9e32-31051506ee19.jpg)
