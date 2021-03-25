@@ -1,3 +1,7 @@
+# Folien
+
+Die im Kurs gehaltenen Präsentationen finden sich unter https://github.com/oelna/hsma-int-slides
+
 # Aufgaben
 
 Kursaufgaben für meinen Kurs INT an der Hochschule Mannheim
