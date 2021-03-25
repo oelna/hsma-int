@@ -1,6 +1,6 @@
 # Folien
 
-Die im Kurs gehaltenen Präsentationen finden sich unter https://github.com/oelna/hsma-int-slides
+Die im Kurs gehaltenen Präsentationen finden sich zukünftig unter https://github.com/oelna/hsma-int-slides
 
 # Aufgaben
 
