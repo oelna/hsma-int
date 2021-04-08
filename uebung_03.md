@@ -57,3 +57,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [colspan-Attribut](https://wiki.selfhtml.org/wiki/HTML/Tabellen/Zellen_verbinden)
 - [rowspan-Attribut](https://wiki.selfhtml.org/wiki/HTML/Tabellen/Zellen_verbinden)
 - [img](https://wiki.selfhtml.org/wiki/HTML/Multimedia_und_Grafiken/Grafiken)
+
+### Design
+
+- [Better Tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table) (Besseres Design für Tabellen)
