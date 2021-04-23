@@ -7,6 +7,12 @@ Formatiere deine Seite aus [Übung 2](uebung_02.md) mit CSS
 
 Mit `CSS` lassen sich die Elemente deiner `HTML`-Seite formatieren und gestalten. Versuche dich zunächst an der Umsetzung einer Vorlage.
 
+Verknüpfe dein CSS-Dokument im `<head>` deiner HTML-Seite:
+```html
+<link rel="stylesheet" href="meine-datei.css" />
+```
+*(In diesem Fall heisst die Datei "meine-datei.css", kann aber natürlich immer anders heissen, je nachdem, wie du sie nennst!)*
+
 Gestalte den Inhalt deiner in Stunde 2 erstellten Seite, um ihn leichter erfassbar und verständlich zu machen. Verwende dazu im Idealfall [Schrift](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Schriftformatierung), [Farbe](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Hintergrundfarben_und_-bilder), [Abstände](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Abstand) und [Rahmen](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/%C3%A4u%C3%9Fere_Gestaltung/Rahmen). Versuche, das nachfolgende Beispiel zu imitieren. Es enthält viele Aspekte, die man im Webdesign-Tagesgeschäft verwendet. In Einzelfällen kann es nötig sein, auch den `HTML`-Code nochmals anzupassen oder zu erweitern.
 
 Prüfe anschliessend deine Seite im Browser deiner Wahl.
