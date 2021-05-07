@@ -27,10 +27,8 @@ Die **Diskografieseite** soll für jedes Album beinhalten:
 - Albumcover
 - Geordnete Liste der Tracks/Stücke (`<ol>`, optional statt der Liste eine Tabelle mit mehr Information)
 - Link zur Indexseite
-
 - Validiere dein Dokument und korrigiere Fehler unter [validator.w3.org](http://validator.w3.org/). Verwende am besten "Direct Input" als Eingabemethode und füge deinen Code per *Copy & Paste* ein.
 - Prüfe deine Seite im Browser deiner Wahl.
-
 
 ### Hinweise zu Bildern:
 
