@@ -60,7 +60,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [Tutorial: Flexbox-Konzepte](https://developer.mozilla.org/de/docs/Web/CSS/CSS_Flexible_Box_Layout/Grundlegende_Konzepte_der_Flexbox)
 - [Tutorial: Introduction to Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) (englisch)
 - [flexbox](https://developer.mozilla.org/de/docs/Web/CSS/CSS_Flexible_Box_Layout)
-- [CSS :hover pseudeo class](https://developer.mozilla.org/de/docs/Web/CSS/:hover)
+- [CSS :hover pseudo class](https://developer.mozilla.org/de/docs/Web/CSS/:hover)
 - [position](https://developer.mozilla.org/de/docs/Web/CSS/position)
 
 #### SelfHTML
