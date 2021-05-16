@@ -30,6 +30,7 @@ Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](h
 ### Praktisches Wissen in kompakter Form
 
 - [Zusammenfassung der Inhalte aus INT](https://github.com/oelna/hsma-int/blob/master/test-vorbereitung.md)
+- [Khan Academy: Einführung in HTML/CSS](https://de.khanacademy.org/computing/computer-programming/html-css)
 - [Merkblatt zu Dateikompression](https://gist.github.com/oelna/828e5b9c5702b635b56fd1a1d463943c)
 - [Liste aller wichtigen Metadaten im `<head>`](https://gist.github.com/oelna/192663f21e81e5467658332259b90a09)
 - [Javascript Crash-Course](https://gist.github.com/oelna/5b7fa9f53331130ba4281d23532f3dff) (nur freiwillig!)
