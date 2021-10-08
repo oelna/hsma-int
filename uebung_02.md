@@ -12,7 +12,7 @@ Lege die DTD (Document Type Definition, Doctype) und HTML-Struktur im Dokument a
 
 ```html
 <!DOCTYPE html>
-<html>
+<html lang="de">
     <head>
         <meta charset="utf-8" />
         <title>Übung 2: Markup</title>
