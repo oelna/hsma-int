@@ -39,3 +39,7 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [CSS Übersicht](https://wiki.selfhtml.org/wiki/CSS)
 - [Einstieg in CSS](https://wiki.selfhtml.org/wiki/CSS/Tutorials/Einstieg)
 - [Eigenschaften-Referenz](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften)
+
+#### Andere
+
+- [Alle CSS Selektoren und Eigenschaften erklärt](https://www.youtube.com/watch?v=l1mER1bV0N0) (Youtube, englisch, 20min)
