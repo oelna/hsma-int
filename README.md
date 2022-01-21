@@ -23,6 +23,14 @@ Der Kurs vermittelt einen Einstieg in die Umsetzung von Websites mit den Sprache
 
 Anregungen für Verbesserungen, Tips und Themenideen nehme ich gerne als [Issues](../../issues) entgegen (benötigt kostenlosen [Github-Account](https://github.com/join))
 
+### Evaluation
+
+https://forms.gle/YnY7yFGPY7CTNrSU9 (WS 21/22)
+
+Bitte nehmen Sie sich kurz Zeit für die Kursevaluation. Ihr Feedback hilft uns, die Veranstaltungen zu verbessern.
+
+Bitte denkt daran, ein VPN bei der Eingabe der Daten zu verwenden und ein Inkognito-Browserfenster, bei dem ihr nicht in euren Google-Account eingeloggt seid, um die Anonymität zu gewährleisten. Alternativ geht natürlich auch die Abgabe der Papierformulare im Sekretariat.
+
 ### Weiterführender Kurs
 
 Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](https://github.com/oelna/hsma-html), das im Hauptstudium ab dem 3. Semester jederzeit (auch mehrfach) belegt werden kann.
