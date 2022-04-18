@@ -69,3 +69,6 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 - [Flex-Container](https://wiki.selfhtml.org/wiki/CSS/Tutorials/Flexbox/Flex-Container)
 - [CSS :hover, :active, :focus](https://wiki.selfhtml.org/wiki/CSS/Selektoren/Pseudoklasse/hover,_active,_focus)
 - [position](https://wiki.selfhtml.org/wiki/CSS/Eigenschaften/Positionierung/position)
+
+![](https://pbs.twimg.com/media/FOifVO2XoAYUyIx?format=jpg&name=medium)
+https://twitter.com/amazingfarooqq/status/1506629571101310988
