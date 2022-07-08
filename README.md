@@ -25,7 +25,7 @@ Anregungen für Verbesserungen, Tips und Themenideen nehme ich gerne als [Issues
 
 ### Evaluation
 
-https://forms.gle/YnY7yFGPY7CTNrSU9 (WS 21/22)
+https://forms.gle/qT295UoiYWVzgAcB6 (SS 22)
 
 Bitte nehmen Sie sich kurz Zeit für die Kursevaluation. Ihr Feedback hilft uns, die Veranstaltungen zu verbessern.
 
