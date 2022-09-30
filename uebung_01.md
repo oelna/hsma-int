@@ -14,7 +14,7 @@ Eine einfaches Projekt, das 2 HTML-Dateien mit einander verlinkt
 - In Datei `index.html`, schreibe den Text „Gehe zur Unterseite“
 - In Datei `unterseite.html`, schreibe den Text „Wieder zur Startseite“
 
-- Jetzt wollen wir den Text „Unterseite“ mit der angelegten `unterseite.html` und den Text „Startseite“ mit der angelegten `index.html` verlinken. Die Verlinkung (=Verknüpfung) wird mit einem der wichtigsten HTML-Tags gemacht, dem Anchor-Element [`<a>`](/)
+- Jetzt wollen wir den Text „Unterseite“ mit der angelegten `unterseite.html` und den Text „Startseite“ mit der angelegten `index.html` verlinken. Die Verlinkung (=Verknüpfung) wird mit einem der wichtigsten HTML-Tags gemacht, dem Anchor-Element [`<a>`](https://wiki.selfhtml.org/wiki/HTML/Elemente/a)
 
 - Während du dich in `index.html` befindest, schreibe vor den Text „Unterseite“ `<a href="unterseite.html">`
 - Schreibe den Schlusstag `</a>` direkt hinter den Text „Unterseite“.
