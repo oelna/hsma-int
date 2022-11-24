@@ -47,7 +47,8 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 
 ### Tutorials
 
-- [Flexbox Playground](https://coding.imweb.io/demo/flex/) (englisch)  
+- [Flexbox Playground](https://coding.imweb.io/demo/flex/) (englisch)
+- [Interactive Guide to Flexbox](https://www.joshwcomeau.com/css/interactive-guide-to-flexbox/) (englisch)
 - [Flexbox Visual Guide](https://scotch.io/tutorials/a-visual-guide-to-css3-flexbox-properties) (englisch)  
 - [Flexbox in five steps](https://webdesignerwall.com/tutorials/master-css-flexbox-5-simple-steps) (englisch)  
 - [Flexbox Froggy](https://flexboxfroggy.com/#de)  
