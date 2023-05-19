@@ -9,7 +9,7 @@ Erstelle eine kleine Website über Alben einer Band
 - Sammle dazu ein wenig Information, wie die Namen der Bandmitglieder und etwas Hintergrund. Dafür kannst du die Bandhomepage, Wikipedia oder zB. Seiten von Amazon nutzen. Notiere allerdings zu jeder Information die Quelle.
 - Finde von mindestens vier (freiwillig: mehr!) ihrer Alben den Titel, die Tracklist und das Cover.
 - Sammle und organisiere den Fliesstext.
-- Erstelle einen neuen Ordner `uebung_4` und lege darin die HTML-Dateien `index.html` und `diskografie.html` an. (Alternativ kannst du auch für jedes Album eine eigene Unterseite anlegen.)
+- Erstelle einen neuen Ordner `uebung_6` und lege darin die HTML-Dateien `index.html` und `diskografie.html` an. (Alternativ kannst du auch für jedes Album eine eigene Unterseite anlegen.)
 - Erstelle darin das HTML-Grundgerüst mit `Doctype`, `UTF-8` Charset und richtig verschachtelten `<html>`, `<head>` und `<body>` Tags.
 
 Die **Indexseite** soll beinhalten:
