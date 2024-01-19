@@ -37,7 +37,7 @@ Bitte denkt daran, ein VPN bei der Eingabe der Daten zu verwenden und ein Inkogn
 
 ### Weiterführender Kurs
 
-Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](https://github.com/oelna/hsma-html), das im Hauptstudium ab dem 3. Semester jederzeit (auch mehrfach) belegt werden kann.
+Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](https://github.com/oelna/hsma-html) ("VSTG"), das im Hauptstudium ab dem 3. Semester jederzeit (auch mehrfach) belegt werden kann.
 
 ### Praktisches Wissen in kompakter Form
 
