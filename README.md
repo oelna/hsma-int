@@ -21,6 +21,10 @@ Der Kurs vermittelt einen Einstieg in die Umsetzung von Websites mit den Sprache
 - [Vorletzte Stunde: Wiederholung aller testrelevanten Inhalte](test-vorbereitung.md)
 - [Letzte Stunde: Test](https://quiz2.arnorichter.de/)
 
+### Semesteraufgabe WS 23/34
+
+https://gist.github.com/oelna/74c8c565a8702f571cde904952f041bb
+
 Anregungen für Verbesserungen, Tips und Themenideen nehme ich gerne als [Issues](../../issues) entgegen (benötigt kostenlosen [Github-Account](https://github.com/join))
 
 ### Evaluation
