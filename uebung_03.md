@@ -61,3 +61,8 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 ### Design
 
 - [Better Tables](https://www.darkhorseanalytics.com/blog/clear-off-the-table) (Besseres Design für Tabellen)
+
+## Bilder
+
+Bessere `alt`-Texte schreiben
+![EB81C832-2A7A-4DAB-89D4-0D52BA354E4F](https://github.com/oelna/hsma-int/assets/1279725/d99bc531-f600-4a3c-8b98-772d6378e87b)
