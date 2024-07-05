@@ -41,4 +41,5 @@ Die Abgabe dieser Aufgabe ist nicht vorgesehen und dient lediglich deiner eigene
 ### Programme
 
 - [Sublime Text](https://www.sublimetext.com/) (Editor)
+- [Zed](https://zed.dev/) (Editor)
 - [Chrome](https://www.google.com/chrome/) (Browser)
