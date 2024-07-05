@@ -29,7 +29,7 @@ Anregungen für Verbesserungen, Tips und Themenideen nehme ich gerne als [Issues
 
 ### Evaluation
 
-https://forms.gle/APvoPJo7PZzCjzEK8 (WS 23/24)
+[https://forms.gle/APvoPJo7PZzCjzEK8](https://forms.gle/XsV6MDwfuFaicw7c6) (SS 2024)
 
 Bitte nehmt euch kurz Zeit für die Kursevaluation. Euer Feedback hilft mir, die Veranstaltungen zu verbessern.
 
