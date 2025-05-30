@@ -19,7 +19,7 @@ Der Kurs vermittelt einen Einstieg in die Umsetzung von Websites mit den Sprache
 - [Stunde 9: CSS-Präsentation](uebung_09.md)
 - [Stunde 10: position-Eigenschaft](uebung_10.md)
 - [Vorletzte Stunde: Wiederholung aller testrelevanten Inhalte](test-vorbereitung.md)
-- [Letzte Stunde: Test](https://quiz2.arnorichter.de/)
+- [Letzte Stunde: Test](https://quiz2.arnorichter.de/) (aktuell ersetzt durch Abgabe Web Projekt)
 
 ### Semesteraufgabe WS 24/25
 
