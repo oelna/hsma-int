@@ -58,8 +58,13 @@ Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](h
 
 ### Eigenen Webspace mieten
 
-- [serverprofis.de](https://www.serverprofis.de/)
+- [serverprofis.de](https://www.serverprofis.de/) (monatl. Tarife)
 - [uberspace.de](https://uberspace.de/de/) (30 Tage kostenlos testen, ohne Zahlmittel)
+- [neocities.org](https://neocities.org) (kostenlose Website für Einsteigende)
+- [plambee.de](https://www.plambee.de/webhosting/) (sehr günstig, Jahresbindung)
+- [goneo.de](https://www.goneo.de/hosting/hosting.html) (inkl. PHP Support)
+- [manitu.de](https://www.manitu.de/webhosting/) (gut, aber 5.99/m)
+- [hetzner.com](https://www.hetzner.com/de/webhosting/level-1/) (2.10/m)
 
 ### Angebot: GitHub Student Developer Pack
 
