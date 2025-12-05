@@ -27,6 +27,13 @@ https://gist.github.com/oelna/bb6d3fb85afbe8cd2f044bdabed78cfb
 
 Anregungen für Verbesserungen, Tips und Themenideen nehme ich gerne als [Issues](../../issues) entgegen (benötigt kostenlosen [Github-Account](https://github.com/join))
 
+### Abgabe von Arbeiten
+
+Bei vielen der Aufgaben ist eine Abgabe nicht nötig – sie dienen hauptsächlich eurer persönlichen Übung. Wenn aber im Unterricht um eine Abgabe oder Einsendung gebeten wird, kann man das über den folgenden Link tun:  
+https://arnorichter.de/hsma/abgabe (Dropbox Upload, auch ohne Account nutzbar)
+
+Idealerweise zieht man den kompletten Ordner der Aufgabe in das Upload-Feld. Alternativ verpackt als zB. `.zip` Archiv
+
 ### Evaluation
 
 https://forms.gle/RPDWeFD7m6DLPo649 (SS 2025)
