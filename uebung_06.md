@@ -11,6 +11,7 @@ Erstelle eine kleine Website über Alben einer Band
 - Sammle und organisiere den Fliesstext.
 - Erstelle einen neuen Ordner `uebung_6` und lege darin die HTML-Dateien `index.html` und `diskografie.html` an. (Alternativ kannst du auch für jedes Album eine eigene Unterseite anlegen.)
 - Erstelle darin das HTML-Grundgerüst mit `Doctype`, `UTF-8` Charset und richtig verschachtelten `<html>`, `<head>` und `<body>` Tags.
+- Verknüpfe eine CSS-Datei mit den HTML-Seiten und erstelle eine ansprechende und passende Gestaltung zu deinen Inhalten. Verwende dafür die bisher gelernten CSS-Eigenschaften, oder recherchiere bei Bedarf auch weitere.
 
 Die **Indexseite** soll beinhalten:
 
