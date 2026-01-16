@@ -36,7 +36,7 @@ Idealerweise zieht man den kompletten Ordner der Aufgabe in das Upload-Feld. Alt
 
 ### Evaluation
 
-https://forms.gle/RPDWeFD7m6DLPo649 (SS 2025)
+[https://forms.gle/RPDWeFD7m6DLPo649](https://forms.gle/1j3fMn6iJwJWt9ph7) (WS 2025/26)
 
 Bitte nehmt euch kurz Zeit für die Kursevaluation. Euer Feedback hilft mir, die Veranstaltungen zu verbessern.
 
