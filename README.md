@@ -4,7 +4,7 @@ Die im Kurs gehaltenen Präsentationen finden sich zukünftig unter https://gith
 
 # Aufgaben
 
-Kursaufgaben für meinen Kurs INT an der Hochschule Mannheim
+Kursaufgaben für meinen Kurs GCT2 ("INT") an der Hochschule Mannheim
 
 Der Kurs vermittelt einen Einstieg in die Umsetzung von Websites mit den Sprachen HTML und CSS. Die Kurszeit ist nach Möglichkeit aufgeteilt in zwei Hälften; die erste behandelt das aktuelle Thema, die zweite bietet Zeit, um an der dazugehörigen Aufgabe zu arbeiten. In vielen Fällen ist der praktische Aufgabenteil jedoch nicht im Unterricht durchführbar, da der Theorieteil durchaus die komplette Kursdauer in Anspruch nehmen kann, besonders wenn sich Fragen ergeben.
 
@@ -21,9 +21,9 @@ Der Kurs vermittelt einen Einstieg in die Umsetzung von Websites mit den Sprache
 - [Vorletzte Stunde: Wiederholung aller testrelevanten Inhalte](test-vorbereitung.md)
 - [Letzte Stunde: Test](https://quiz2.arnorichter.de/) (aktuell ersetzt durch Abgabe Web Projekt)
 
-### Semesteraufgabe SS 25
+### Semesteraufgabe WS 25/26
 
-https://gist.github.com/oelna/bb6d3fb85afbe8cd2f044bdabed78cfb
+https://gist.github.com/oelna/97d36f23ddadbbdb28966d8693aa7023
 
 Anregungen für Verbesserungen, Tips und Themenideen nehme ich gerne als [Issues](../../issues) entgegen (benötigt kostenlosen [Github-Account](https://github.com/join))
 
@@ -62,6 +62,10 @@ Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](h
 
 - [porkbun.com](https://porkbun.com)
 - [inwx.de](https://www.inwx.com/de/)
+- [Cloudflare Domains](https://www.cloudflare.com/de-de/products/registrar/)
+- [namecheap.com](https://www.namecheap.com)
+
+[Anleitung](https://www.inwx.de/de/blog/was-ist-ein-dns-eintrag), um DNS-Einträge für die Domains zu setzen
 
 ### Eigenen Webspace mieten
 
@@ -71,6 +75,7 @@ Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](h
 - [plambee.de](https://www.plambee.de/webhosting/) (sehr günstig, Jahresbindung)
 - [goneo.de](https://www.goneo.de/hosting/hosting.html) (inkl. PHP Support)
 - [manitu.de](https://www.manitu.de/webhosting/) (gut, aber 5.99/m)
+- [all-inkl.com](https://all-inkl.com)
 - [hetzner.com](https://www.hetzner.com/de/webhosting/level-1/) (2.10/m)
 
 ### Angebot: GitHub Student Developer Pack
