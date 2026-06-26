@@ -44,7 +44,7 @@ Bitte denkt daran, ein VPN bei der Eingabe der Daten zu verwenden und ein Inkogn
 
 ### Weiterführender Kurs
 
-Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](https://github.com/oelna/hsma-html) ("VSTG"), das im Hauptstudium ab dem 3. Semester <del>jederzeit</del> jeweils im Wintersemester (auch mehrfach) belegt werden kann.
+Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](https://github.com/oelna/hsma-html) ("VIR"), das im Hauptstudium ab dem 3. Semester <del>jederzeit</del> jeweils im Wintersemester (auch mehrfach) belegt werden kann.
 
 ### Praktisches Wissen in kompakter Form
 
@@ -77,6 +77,8 @@ Es existiert ein weiterführender Kurs, das Wahlfach ["Offenes Projekt: HTML"](h
 - [manitu.de](https://www.manitu.de/webhosting/) (gut, aber 5.99/m)
 - [all-inkl.com](https://all-inkl.com)
 - [hetzner.com](https://www.hetzner.com/de/webhosting/level-1/) (2.10/m)
+- [Codeberg Pages](https://docs.codeberg.org/codeberg-pages/) (kostenlos, codeberg.page Subdomain, eigene Domains)
+- [Github Pages](https://docs.github.com/de/pages/quickstart) (kostenlos, github.io Subdomain, eigene Domains)
 
 ### Angebot: GitHub Student Developer Pack
 
@@ -84,7 +86,7 @@ Das [GitHub Student Developer Pack](https://education.github.com/pack) ist eine 
 
 Es beinhaltet unter anderen auch einen kostenlosen Domainnamen über [name.com](https://name.com/), sowie kostenlos-für-1-Jahr Domains von namecheap und .tech-domains. Ebenfalls enthalten sind viele Online-Kurse für `HTML`, `CSS`, `Javascript` und mehr.
 
-[Die Registrierung](https://education.github.com/pack) ist kostenlos und es gibt keinen Haken. Nebenbei erhält man nach der Verifikation einen Github Pro Account (normalerweise $85/Jahr) mit unbegrenzten öffentlichen und privaten Repositories.
+[Die Registrierung](https://education.github.com/pack) ist kostenlos und es gibt quasi keinen Haken (ausser, dass GitHub Microsoft gehört). Nebenbei erhält man nach der Verifikation einen Github Pro Account (normalerweise $85/Jahr) mit unbegrenzten öffentlichen und privaten Repositories.
 
 ### Bücher zum Thema
 
